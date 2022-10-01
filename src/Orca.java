@@ -1,8 +1,15 @@
 import java.awt.Color;
 import java.util.Random;
 
-
 public class Orca extends Critter {
+	
+	// Author: Quinn Murphy
+	// Date: 10/1/22
+	// Class: CS145
+	// Orca class
+	// This class will feature a number generator
+	// for the colors. It will also have a pretty long
+	// move list
 
 	private int count;
 	private Color firstColor;
